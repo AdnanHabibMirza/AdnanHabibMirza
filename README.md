@@ -1,20 +1,5 @@
 ### Hello World ! 👋
 
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-
 ## 
 
 <img alt="AdnanHabibMirza" align="right" src="https://devstickers.com/assets/img/pro/wq5o.png" width="100">
@@ -39,14 +24,5 @@ Here are some ideas to get you started:
 </p>
 
 ## 
-<!--
-## 
-### 💬 Find me [elsewhere on the internet](https://linktr.ee/choubari).
-## 
--->
-<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AdnanHabibMirza&show_icons=true&hide_border=true&count_private=true&hide=contribs,prs&hide_title=true&theme=gruvbox"/>
 
-<!--
-- :trophy: **My GitHub trophies :**  
-- -->
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AdnanHabibMirza&title=Commit,Followers,Repositories&theme=gruvbox&column=3&margin-w=15&margin-h=15&no-bg=false&no-frame=false)
