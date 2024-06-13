@@ -34,3 +34,15 @@
   <img src="https://img.shields.io/badge/kotlin_multiplatform-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="30" />
 </div>
+
+<div align="center">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
+</div>
