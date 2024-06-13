@@ -1,49 +1,36 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtpMjNzazJwdW15bDBoZ2RkdWR5YTljanY4NjJlcnA0eDJkYzJmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="200" src="https://timaltman.com.au/wp-content/uploads/2015/11/evo-3.png"  />
 </div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adnanhabibmirza/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+  
+  <a href="https://stackoverflow.com/users/11512499/" target="_blank">
+    <img src="https://img.shields.io/badge/stack_overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" height="30" />
   </a>
 </div>
 
-###
-
-<h1 align="center">Hi, I'm Adnan Habib 👋</h1>
-
-###
-
-<h2 align="left">👨‍💻  About Me</h2>
-
-###
-
-<p align="left">🔭 I’m working as Android Developer<br>📚 I'm currently learning iOS Development</p>
-
-###
-
-<h2 align="left">🛠 Language and tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+<div align="center">
+  <img src="https://img.shields.io/badge/java-007396?logo=java&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/swift-F05138?logo=swift&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="30" />
 </div>
 
-###
+<div align="center">
+  <img src="https://img.shields.io/badge/android_studio-34A853?logo=androidstudio&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/xcode-147EFB?logo=xcode&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/intellij_idea-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/datagrip-000000?logo=datagrip&logoColor=white&style=for-the-badge" height="30" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/android-34A853?logo=android&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/ios-000000?logo=ios&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/jetpack_compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/swift_ui-F05138?logo=swift&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/kotlin_multiplatform-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="30" />
+</div>
