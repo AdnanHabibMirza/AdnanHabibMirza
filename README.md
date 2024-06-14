@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://timaltman.com.au/wp-content/uploads/2015/11/evo-3.png" alt="Logo" height="200" />
-</div>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/adnanhabibmirza/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="30" />
   </a>
@@ -32,16 +28,4 @@
   <img src="https://img.shields.io/badge/swift_ui-F05138?logo=swift&logoColor=white&style=for-the-badge" alt="Swift UI" height="30" />
   <img src="https://img.shields.io/badge/kotlin_multiplatform-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin Multiplatform" height="30" />
   <img src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter" height="30" />
-</div>
-
-<div align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif" alt="Reverse Parrot" width="30" height="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" alt="Mustache Parrot" width="30" height="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" alt="Middle Parrot" width="30" height="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" alt="Party Parrot" width="30" height="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" alt="Middle Parrot" width="30" height="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" alt="Party Parrot" width="30" height="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" alt="Middle Parrot" width="30" height="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" alt="Mustache Parrot" width="30" height="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Parrot" width="30" height="30" />
 </div>
