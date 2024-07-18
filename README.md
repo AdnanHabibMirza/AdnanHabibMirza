@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java" height="30" />
   <img src="https://img.shields.io/badge/kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin" height="30" />
   <img src="https://img.shields.io/badge/swift-F05138?logo=swift&logoColor=white&style=for-the-badge" alt="Swift" height="30" />
-  <img src="https://img.shields.io/badge/dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart" height="30" />
 </div>
 
 <div align="center">
@@ -27,5 +26,4 @@
   <img src="https://img.shields.io/badge/jetpack_compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge" alt="Jetpack Compose" height="30" />
   <img src="https://img.shields.io/badge/swift_ui-F05138?logo=swift&logoColor=white&style=for-the-badge" alt="Swift UI" height="30" />
   <img src="https://img.shields.io/badge/kotlin_multiplatform-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin Multiplatform" height="30" />
-  <img src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter" height="30" />
 </div>
