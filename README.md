@@ -15,15 +15,13 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/android-34A853?logo=android&logoColor=white&style=for-the-badge" alt="Android" height="30" />
+  <img src="https://img.shields.io/badge/ios-000000?logo=ios&logoColor=white&style=for-the-badge" alt="iOS" height="30" />
   <img src="https://img.shields.io/badge/android_studio-34A853?logo=androidstudio&logoColor=white&style=for-the-badge" alt="Android Studio" height="30" />
   <img src="https://img.shields.io/badge/xcode-147EFB?logo=xcode&logoColor=white&style=for-the-badge" alt="Xcode" height="30" />
-  <img src="https://img.shields.io/badge/intellij_idea-000000?logo=intellijidea&logoColor=white&style=for-the-badge" alt="IntelliJ IDEA" height="30" />
-  <img src="https://img.shields.io/badge/datagrip-000000?logo=datagrip&logoColor=white&style=for-the-badge" alt="DataGrip" height="30" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/android-34A853?logo=android&logoColor=white&style=for-the-badge" alt="Android" height="30" />
-  <img src="https://img.shields.io/badge/ios-000000?logo=ios&logoColor=white&style=for-the-badge" alt="iOS" height="30" />
   <img src="https://img.shields.io/badge/jetpack_compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge" alt="Jetpack Compose" height="30" />
   <img src="https://img.shields.io/badge/swift_ui-F05138?logo=swift&logoColor=white&style=for-the-badge" alt="Swift UI" height="30" />
   <img src="https://img.shields.io/badge/kotlin_multiplatform-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin Multiplatform" height="30" />
