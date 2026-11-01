@@ -19,7 +19,8 @@ data class Engineer(
 }
 ```
 
-### git log
+### Commit history
+
 ```
 feat: drive analytics and marketing initiatives for 6.5M+ telecom customers in 5 countries
 feat: own the internal shared SDK behind 14 apps shipped from 3 codebases
