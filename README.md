@@ -24,11 +24,11 @@ data class Engineer(
 ```
 feat: drive analytics and marketing initiatives for 6.5M+ telecom customers in 5 countries
 feat: own the internal shared SDK behind 14 apps shipped from 3 codebases
-refactor: migrate to KMP and CMP with 85%+ of code shared across Android and iOS
-refactor: rebuild the entire legacy XML UI in Jetpack Compose and move to multi-module
-fix: raise crash-free rate of a food delivery app with 500K+ users from 95% to over 99%
+fix: raise the crash-free rate of a food delivery app with 500K+ users from 95% to over 99%
+refactor: rebuild its entire legacy XML UI in Jetpack Compose and move to multi-module
+refactor: migrate it to KMP and CMP with 85%+ of code shared across Android and iOS
 feat: build a fitness app from scratch and keep it above 99.9% crash-free for 50K+ users
-feat: help a YC startup ship its MVP in 3 months and grow to 1M+ users within a year
+feat: help a Y Combinator startup ship its MVP in 3 months and grow to 1M+ users within a year
 ```
 
 ### Stack
