@@ -58,10 +58,10 @@ feat: help a Y Combinator startup ship its MVP in 3 months and grow to 1M+ users
 ### Find me
 
 <div align="center">
-<a href="https://www.linkedin.com/in/adnanhabibmirza/" target="_blank">
+<a href="https://www.linkedin.com/in/adnanhabibmirza" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="30" />
 </a>
-<a href="https://stackoverflow.com/users/11512499/" target="_blank">
+<a href="https://stackoverflow.com/users/adnanhabibmirza" target="_blank">
   <img src="https://img.shields.io/badge/stack_overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stack Overflow" height="30" />
 </a>
 </div>
